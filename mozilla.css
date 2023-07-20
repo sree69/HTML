@@ -1,0 +1,33 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+
+body{
+    background-color: blue;
+    
+}
+#main5{
+    background-color:coral;
+    margin: top px;
+    margin-bottom: 50px;
+    margin-right: 500px;
+    margin-left: 500px;
+    border: 10px;
+    border-color: black;
+    border-style: solid;
+}
+#main1 h1{
+    color :blue;  
+    text-align: center;  
+    font-size: xx-large;
+}
+#main1 {
+    background-color: coral;
+    text-align: center;
+}
+#main2 {
+    background-color: coral;
+    padding :5%
+}

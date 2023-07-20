@@ -1,0 +1,26 @@
+#main1 {
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/e/e4/Color-blue.JPG);
+}
+#main1 h2{
+   color: brown;
+}
+#main1 p{
+    color:blanchedalmond;
+}
+#main2 {
+    background-color:coral;
+}
+#main2 table{
+    align;
+    color:chartreuse;
+}
+#lap1 {
+    text-align: center;
+}
+#tab1 {
+    align-content:center;
+}
+body {
+    background-image: url();
+    text-align: center;
+}
